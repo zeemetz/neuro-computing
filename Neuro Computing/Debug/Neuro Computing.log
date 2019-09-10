@@ -1,0 +1,10 @@
+﻿  Neuro Computing.cpp
+d:\neuro computing\neuro computing\Form1.h(356): warning C4018: '<' : signed/unsigned mismatch
+d:\neuro computing\neuro computing\Form1.h(363): warning C4018: '<' : signed/unsigned mismatch
+d:\neuro computing\neuro computing\Form1.h(365): warning C4018: '<' : signed/unsigned mismatch
+d:\neuro computing\neuro computing\Form1.h(367): warning C4244: '=' : conversion from 'double' to 'fann_type', possible loss of data
+d:\neuro computing\neuro computing\Form1.h(370): warning C4018: '<' : signed/unsigned mismatch
+d:\neuro computing\neuro computing\Form1.h(372): warning C4244: '=' : conversion from 'double' to 'fann_type', possible loss of data
+d:\neuro computing\neuro computing\Form1.h(377): warning C4305: 'argument' : truncation from 'double' to 'float'
+d:\neuro computing\neuro computing\Form1.h(424): warning C4244: '=' : conversion from 'double' to 'fann_type', possible loss of data
+  Neuro Computing.vcxproj -> D:\Neuro Computing\Debug\Neuro Computing.exe
